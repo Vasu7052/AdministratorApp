@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "218110851579",
+    "firebase_url": "https://fir-hack-91a80.firebaseio.com",
+    "project_id": "fir-hack-91a80",
+    "storage_bucket": "fir-hack-91a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218110851579:android:3f28b2023c1628c0",
+        "android_client_info": {
+          "package_name": "com.appbusters.robinkamboj.firebasehack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218110851579-iplc6a88dbgna705pbadk3hrqks016pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appbusters.robinkamboj.firebasehack",
+            "certificate_hash": "25b143a4a2b1143d1aaf9a82ce2e877f2aca0ae2"
+          }
+        },
+        {
+          "client_id": "218110851579-to93h1cual29e6bsemittkcjeiba1a3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appbusters.robinkamboj.firebasehack",
+            "certificate_hash": "7d15706bc10fc7fe7d330b6e8766f5f713079381"
+          }
+        },
+        {
+          "client_id": "218110851579-606sf363n6ijfqmmupl6hvd7ehalu32i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appbusters.robinkamboj.firebasehack",
+            "certificate_hash": "dbea9757a5f8bb23907d231c9311d2219ce758af"
+          }
+        },
+        {
+          "client_id": "218110851579-bcv3e0oq22bictpsi0h747g5budfddl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxYIXxARXhVy_DLjYML4wsjksxRspUwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218110851579-bcv3e0oq22bictpsi0h747g5budfddl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218110851579:android:e359b1078a17493b",
+        "android_client_info": {
+          "package_name": "com.androfly.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218110851579-bcv3e0oq22bictpsi0h747g5budfddl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxYIXxARXhVy_DLjYML4wsjksxRspUwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218110851579:android:cedf131e208318f5",
+        "android_client_info": {
+          "package_name": "com.androfly.administratorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218110851579-56sgevlce6aceu532libg41u3bcf3mjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androfly.administratorapp",
+            "certificate_hash": "7d15706bc10fc7fe7d330b6e8766f5f713079381"
+          }
+        },
+        {
+          "client_id": "218110851579-bcv3e0oq22bictpsi0h747g5budfddl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASxYIXxARXhVy_DLjYML4wsjksxRspUwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218110851579-bcv3e0oq22bictpsi0h747g5budfddl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
